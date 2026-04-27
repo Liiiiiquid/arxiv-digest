@@ -1,0 +1,16 @@
+# secrets — never commit
+.env
+
+# generated files
+arxiv_digest.db
+digest.html
+*.log
+
+# python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
